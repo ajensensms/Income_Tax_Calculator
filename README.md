@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+16 October 2017
 
 ### Student Name:  
-(First and Last Name)
+Annette Jensen
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignemnt we applied JavaScript functions to create a tax calculator
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ajensensms.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. In this lesson I learned how to edit JavaScript code
+2. In this lesson I learned how about tax brackets
+3. In this lesson I learned clear data using JavaScript functions
 
