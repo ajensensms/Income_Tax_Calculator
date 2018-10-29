@@ -12,8 +12,7 @@ Annette Jensen
 ### Project Description:
 In this assignemnt we applied JavaScript functions to create a tax calculator
 
-### View Project:
-https://ajensensms.github.io/lesson5_javascript2/
+
 
 ### Lessons Learned in the Assignment:
 1. In this lesson I learned how to edit JavaScript code
